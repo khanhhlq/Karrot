@@ -1,0 +1,28 @@
+{
+    "name": "Karrot",
+    "publisher": "ooAkira",
+    "displayName": "Karrot theme",
+    "icon": "images/icon.png",
+    "description": "Make your working environment more attractive",
+    "version": "0.0.7",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Karrot Theme Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Karrot Theme-color-theme.json"
+            },
+            {
+                "label": "Karrot Theme Blue - Classic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Korra-theme-classic.json"
+            }
+        ]
+    }
+}
