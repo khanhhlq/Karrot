@@ -6,3 +6,8 @@ Karrot theme with the background is not too bright and makes my eyes not tired w
 <img src="./images/1.jpeg" alt="..." />
 <img src="./images/2.jpeg" alt="..." />
 <img src="./images/3.jpeg" alt="..." />
+
+## Blue theme
+<img src="./images/v1.jpeg" alt="..." />
+<img src="./images/v2.jpeg" alt="..." />
+<img src="./images/v3.jpeg" alt="..." />
